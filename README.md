@@ -9,7 +9,7 @@ The dataset contains various features of laptops such as company, type, CPU, GPU
 The goal is to predict the log-transformed price of a laptop, providing reliable estimates for unseen configurations.
 
 📂 Dataset
-Source: laptop_data.csv (CampusX dataset)
+Source: laptop_data.csv 
 
 Rows: 1303
 
